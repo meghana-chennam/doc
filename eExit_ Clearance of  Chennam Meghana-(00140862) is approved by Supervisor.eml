@@ -1,0 +1,152 @@
+Received: from MA0P287MB2006.INDP287.PROD.OUTLOOK.COM (2603:1096:a01:123::14)
+ by PN2PPFAB56D1AF5.INDP287.PROD.OUTLOOK.COM with HTTPS; Thu, 30 Apr 2026
+ 17:18:00 +0000
+Received: from MA5P287CA0180.INDP287.PROD.OUTLOOK.COM (2603:1096:a01:1af::12)
+ by MA0P287MB2006.INDP287.PROD.OUTLOOK.COM (2603:1096:a01:123::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9870.20; Thu, 30 Apr
+ 2026 17:17:58 +0000
+Received: from MA1PEPF00007262.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:a01:1af:cafe::12) by MA5P287CA0180.outlook.office365.com
+ (2603:1096:a01:1af::12) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.9846.30 via Frontend
+ Transport; Thu, 30 Apr 2026 17:17:58 +0000
+Authentication-Results: spf=pass (sender IP is 20.204.97.210)
+ smtp.mailfrom=coforge.com; dkim=none (message not signed)
+ header.d=none;dmarc=pass action=none header.from=coforge.com;
+Received-SPF: Pass (protection.outlook.com: domain of coforge.com designates
+ 20.204.97.210 as permitted sender) receiver=protection.outlook.com;
+ client-ip=20.204.97.210; helo=relayex.coforge.com; pr=C
+Received: from relayex.coforge.com (20.204.97.210) by
+ MA1PEPF00007262.mail.protection.outlook.com (10.167.242.4) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.9870.22 via Frontend Transport; Thu, 30 Apr 2026 17:17:58 +0000
+Received: from IN-AZ1-RELAYEX2.coforge.local (10.60.224.9) by
+ IN-AZ1-RELAYEX2.coforge.local (10.60.224.9) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.2562.37; Thu, 30 Apr 2026 22:47:57 +0530
+Received: from ESSPRDAP2 (172.18.50.131) by IN-AZ1-RELAYEX2.coforge.local
+ (10.60.224.9) with Microsoft SMTP Server id 15.2.2562.37 via Frontend
+ Transport; Thu, 30 Apr 2026 22:47:57 +0530
+From: Webmaster - iEngage <iEngage@coforge.com>
+To: <Chennam.Meghana@coforge.com>
+CC: <Sandeep.mehndiratta@coforge.com>, <Rohit.3.Mishra@coforge.com>,
+	<Sumit.6.Sharma@coforge.com>, <Saujanya.Yelmule@coforge.com>,
+	<eExit.support@Coforge.com>
+Date: Thu, 30 Apr 2026 22:47:58 +0530
+Subject: eExit: Clearance of  Chennam Meghana-(00140862) is approved by
+ Supervisor
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <c774a3f6-217c-475f-844d-43bf7563366e@IN-AZ1-RELAYEX2.coforge.local>
+Return-Path: iEngage@coforge.com
+X-CrossPremisesHeadersFilteredBySendConnector: IN-AZ1-RELAYEX2.coforge.local
+X-OrganizationHeadersPreserved: IN-AZ1-RELAYEX2.coforge.local
+X-MS-Exchange-Organization-ExpirationStartTime: 30 Apr 2026 17:17:58.2993
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 88d3556e-230b-4862-9582-08dea6dc6ce2
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: MA1PEPF00007262:EE_|MA0P287MB2006:EE_|PN2PPFAB56D1AF5:EE_
+X-MS-Exchange-Organization-AuthSource: MA1PEPF00007262.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: ntlgnoida.onmicrosoft.com
+X-MS-Office365-Filtering-Correlation-Id: 88d3556e-230b-4862-9582-08dea6dc6ce2
+X-MS-Exchange-AtpMessageProperties: SA|SL
+x-ms-reactions: disallow
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:2;ARA:13230040|69100299015|82310400026|7049299003|3109299003|2092899012|3072899012|7149299003|12012899012|18002099003|8096899003|4076899003|57112099003|55112099003;
+X-Forefront-Antispam-Report: CIP:20.204.97.210;CTRY:IN;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:relayex.coforge.com;PTR:relayex2.coforge.com;CAT:NONE;SFS:(13230040)(69100299015)(82310400026)(7049299003)(3109299003)(2092899012)(3072899012)(7149299003)(12012899012)(18002099003)(8096899003)(4076899003)(57112099003)(55112099003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Apr 2026 17:17:58.2537
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 88d3556e-230b-4862-9582-08dea6dc6ce2
+X-MS-Exchange-CrossTenant-Id: b727a530-a0d5-4fb8-bd40-d8f9763e97db
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=b727a530-a0d5-4fb8-bd40-d8f9763e97db;Ip=[20.204.97.210];Helo=[relayex.coforge.com]
+X-MS-Exchange-CrossTenant-AuthSource: MA1PEPF00007262.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA0P287MB2006
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3619492
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.9870.000
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944490095)(944506478)(944626604)(920097)(930201)(20251009189)(140003)(1420198);
+X-Microsoft-Antispam-Message-Info:
+	=?us-ascii?Q?gOJJq5TefmBx/Ft1MnFyqgO4ooYhl9dBIzrOIkTeA9swYD6DECM3xQfvgUw3?=
+ =?us-ascii?Q?KhuKvQR4lnlZrCq2U/vN+WHezlUZZRkj42yDa78TeoJ8w98x6+asqRTpPvMv?=
+ =?us-ascii?Q?5r32qITjBuabP5XWEazh0Fypgp/O2ILD5WbgpMoR9E5BbTDMo6tLMTWGr+nR?=
+ =?us-ascii?Q?UE4I/3Zs2rgpwOdbQ6i28FIX6WgLTAY0qmQdnzkR5fYd/LaS2hXLNei2AzSd?=
+ =?us-ascii?Q?i4rHDqD8icJvAKX+rDx0mufanRwHD73EE55uOurCbz1P3P1F5IIAs9qbkKKS?=
+ =?us-ascii?Q?9ABOfYJPNUKjEg5Jtc2cV8YxeeI9/uvXbTumuYKCEujfwu2ax7EfYFecMWJU?=
+ =?us-ascii?Q?Zgcdw2TAeFRBzvVMCA0lX0+6sVYmdW2T1XO6HuYxBIUiKheBaSS71AMNeICd?=
+ =?us-ascii?Q?MsRQmJMl7VaXds7zkF+qNe6tv1LEd0SCFbo9ZS2O7VFmZRxgu7Aswnmq7CGR?=
+ =?us-ascii?Q?/ZdnMOfvfteEkzDoZSFIwrxvQpMXsagzaNYVe9AzroHmc8YsA1b2RHfQtwsp?=
+ =?us-ascii?Q?ZSBJ7EMtA/ySf4L0Q8FYsY3SslBfjr2hja1U4uA7LPhUTl/90DB+5sIXOj4Y?=
+ =?us-ascii?Q?EnfNs/Yr2fnuMCjZx0iEJkxI82+rRlzaDS8+UNgQf/2hlGIrGLhTvP47HMG8?=
+ =?us-ascii?Q?cFjew2zpvI/aScvVsxv/NGEprG9jQukqnNDhLRuz2ixyEl90JXePUDLLuRCC?=
+ =?us-ascii?Q?uzp9zgZxKdJhpq7Ln/tEkW0hFWu3rMPQ9Q4Dovhj3WeECf38WQNo+7Z8mu9k?=
+ =?us-ascii?Q?vsQO6jUJTcSBf1l2/mzErf7AlbY4M1Bh7+iea01KqE+L4vAkr4sAniaRHXHQ?=
+ =?us-ascii?Q?F9vMWpZVEEsVJGlDAs1xHfy1BTVvN7AuVC89RhEZXUAoAE5wGf5pzG3Dn9d/?=
+ =?us-ascii?Q?DEDW1EkvhrQ38Ql/HVBrn2VVGK3/MTFdozbPHVMCwfgypHQk4fF+78QrfjfQ?=
+ =?us-ascii?Q?dEGLwlZa2zUWPlNEszxRHoY/ZV2dpE0kCHT4wsBy3L01pDsMAc7ZOJmQxuNe?=
+ =?us-ascii?Q?VuWBdWlkgltUN6SjX+GpKopL87c5WUYdWITe5t+vYNSRwYXQbDbj6gPHY5xq?=
+ =?us-ascii?Q?54fjMrb1NpV+jF+MifME303tMhfupiGVFYswCikeK6s8iab5dxwePO4hTWTj?=
+ =?us-ascii?Q?TtPAfWWZnTni/UxHVNLz2ONffvBy/HonWiV1ni1+sGjzuAsaDDm5obbU+awL?=
+ =?us-ascii?Q?9UKgLx5btQMiNF1Dke4QENgR+J4iI4rmXay+Jx/+ramnlf9MABNAGgZNG+80?=
+ =?us-ascii?Q?iejK/3tu3SwRYzHu5G5JA1xRUcmKoAyFzjm5r/Idppu8XwpYUXklkk0g5j+w?=
+ =?us-ascii?Q?X+K/jg98U8tmvvJsqbECMirUWDRZCFYm7P3Il2P1KW64gN7KZfUUwlIyugjx?=
+ =?us-ascii?Q?mPk7ZYEDJz/xSMDAt58q+qx8j2lpU+LJug4YWnqZWbE0E7XowfmDaOJnpOAt?=
+ =?us-ascii?Q?lB3+m44h51F6loQCPyVZ/fdt/IdRlbI2+/o3X2Pi2R11iISp8w+r7kGXDrwj?=
+ =?us-ascii?Q?hUxXRPUMZp+mdxMhqyU4Z1ZctW578+6N5FHEiyRTA036mJhFpGAEHhN5xb6W?=
+ =?us-ascii?Q?xxqKyv5Aj8XBsXyO19j92UlKn7NGwVmeqZi6m9oSljK86mWA4J7GTk4IS+GE?=
+ =?us-ascii?Q?rEeKkyOcpPw7XAXMtl+IJlIwIBxI/WxIctY2BBYeBfXjcHsDkcQC+kB3L1og?=
+ =?us-ascii?Q?mpz2P9derDufGnLSqrRIl4S0NmuQOHAkDMsCN/9vbwWAHky4AfE9Aby4Pr/4?=
+ =?us-ascii?Q?Uem9uM4nGKCI9RqWg/O5CYnMD9YYUUFqd3ekMQPrPAyMHMBwzNo3XtAjloNU?=
+ =?us-ascii?Q?nHfNFOx79AT9YbwobgNpUpeGOoDPAcXVXkebtxqLbKtkcTqZ2tpbtwM7dXE2?=
+ =?us-ascii?Q?KKwLCHcZ8fx/6G47BW2EWGH6Ody/8NZ8s5NiQ/GfkdtNGYxBUl0+CKCJtdYY?=
+ =?us-ascii?Q?SoRRoAaU13WflzmlYuu/Mon/GV9lUr4OHqnE2BEQaET8DodJu3oKOw1vUja+?=
+ =?us-ascii?Q?e96SxsS4Ymogac56YHw9ARBR+Ln69I2Bej/WTkNMUAsfGd0vFYPnHQAusDEj?=
+ =?us-ascii?Q?CoW27NzcZek3NFBWqCl/FZUAaCnuoLZumCFNu0KKjhxF9mR8SeSez6qpdQn3?=
+ =?us-ascii?Q?3zQ62hCoBchR9yKNeBLspz8ADtaaRpY0QpkEZjBq0U0Hsfn+MujtOpmdW5UX?=
+ =?us-ascii?Q?ysGsmony2EutPOVw?=
+MIME-Version: 1.0
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+></head>
+<body> <style> BODY{FONT-SIZE: 8pt;COLOR: BLACK;FONT-FAMILY: Verdana, Arial=
+, Helvetica, sans-serif;TEXT-DECORATION: none} TABLE{FONT-SIZE: 8pt;COLOR: =
+BLACK;FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;TEXT-DECORATION: n=
+one} A:hover{FONT-SIZE: 8pt;COLOR:BLUE ; FONT-FAMILY: Verdana, Arial, Helve=
+tica, sans-serif;TEXT-DECORATION: none} A:link{FONT-SIZE: 8pt;COLOR:BLUE ; =
+FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;TEXT-DECORATION: none} A=
+:visited{FONT-SIZE: 8pt;COLOR:BLUE ; FONT-FAMILY: Verdana, Arial, Helvetica=
+, sans-serif;TEXT-DECORATION: none} .thhead{ FONT-WEIGHT: bolder;FONT-SIZE:=
+ 10pt;COLOR: white;FONT-FAMILY: 'Times New Roman';BACKGROUND-COLOR: #0099cc=
+} </style><table colspan=3D"0" rowspan=3D"0" width=3D"100%"><tr><td width=
+=3D"50%" valign=3D"center"><b><font size=3D"4">eExit<font></b></td></td><td=
+ width=3D"50%" align=3D"left"><img src=3D"https://iengage.coforge.com/ess1/=
+Images/coforge_logo_small_4.png" height=3D"40"></td></tr></table><table><ta=
+ble>Dear Chennam Meghana,<br><br>ECC (Employee Clearance certificate) is ap=
+proved from your supervisor, please assign the asset and get it accepted fr=
+om the new user before your last working day.<br><br>Below are the details.=
+<br><br><table border=3D"1" cellpadding=3D"1" cellspacing=3D"1" width=3D"10=
+0%"> <tr> <th> EmpCode </th><th> Employee Name </th><th> Country </th> <th>=
+  Designation  </th> <th>  Designation Level  </th><th> DIS </th><th> IBU <=
+/th><th> Horizontal </th> <th> Resgn.Dt. </th><th> Sch.LWD </th> </tr><tr s=
+tyle=3D"text-align:center"><td>00140862  </td><td>Chennam Meghana  </td><td=
+>India  </td><td>SENIOR ENGINEER  </td><td>3.1  </td><td>D </td><td> </td><=
+td>PRODUCT ENGINEERING </td><td>15-Apr-2026 </td><td>14-May-2026 </td></tr>=
+</table><br><br><br><b>Regards,</b><br>WebMaster<br><a href=3D"https://ind0=
+1.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fiengage.coforge.com=
+%2F&amp;data=3D05%7C02%7CChennam.Meghana%40coforge.com%7C88d3556e230b486295=
+8208dea6dc6ce2%7Cb727a530a0d54fb8bd40d8f9763e97db%7C0%7C0%7C639131662807836=
+013%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlA=
+iOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3DYt%2=
+BlcwdFII4nxytm4T4VyCyorpPRkGIzKWrmX7rZ4Xg%3D&amp;reserved=3D0" originalsrc=
+=3D"https://iengage.coforge.com/" target=3D"_blank">Coforge Limited</a></ta=
+ble></body></html></table></body></html>
+
